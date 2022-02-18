@@ -1,4 +1,3 @@
 cycle1
 cycle2
-cycle3 - br1
-cycle4
+cycle3
